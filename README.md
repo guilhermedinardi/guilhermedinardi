@@ -17,12 +17,14 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img 
          align = "center" 
+         width = "37%"
          src = "https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermedinardi&layout=compact&theme=dark" alt ="guilhermedinardi"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img 
          align = "center" 
-         height="165"
+         width = "58%"
+         height = "165"
          src = "https://github-readme-stats.vercel.app/api?username=guilhermedinardi&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark"/>
   </a> 
 </p>
