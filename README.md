@@ -24,6 +24,6 @@
     <img 
          align = "left" 
          height = "150"
-         src = "https://github-readme-stats.vercel.app/api?username=guilhermedinardi&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark"/>
+         src = "https://github-readme-stats.vercel.app/api?username=guilhermedinardi&show_icons=true&contribs,prs&cache_seconds=86400&theme=dark"/>
   </a> 
 </p>
