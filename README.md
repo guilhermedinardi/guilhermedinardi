@@ -20,12 +20,12 @@
     <img 
          align = "left" 
          height = "150"
-         src = "https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermedinardi&layout=compact&theme=dark" alt ="guilhermedinardi"/>
+         src = "https://github-readme-stats-guilhermedinardi.vercel.app/api/top-langs/?username=guilhermedinardi&layout=compact&theme=dark" alt ="guilhermedinardi"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img 
          align = "left" 
          height = "150"
-         src = "https://github-readme-stats.vercel.app/api?username=guilhermedinardi&show_icons=true&contribs,prs&cache_seconds=86400&theme=dark"/>
+         src = "https://github-readme-stats-guilhermedinardi.vercel.app/api?username=guilhermedinardi&show_icons=true&contribs,prs&cache_seconds=86400&theme=dark"/>
   </a> 
 </p>
